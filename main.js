@@ -34,8 +34,7 @@ function addGrades(student, newGrades) {
 }
 
 function getDataType(obj, key) {
-    value = obj[key];
-    type = typeof(value);
+    type = typeof(obj[key]);
     return type;
 }
 
