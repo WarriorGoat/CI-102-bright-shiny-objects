@@ -1,7 +1,6 @@
 // ┌─────────────────┐
 // │ Your code here! │
 // └─────────────────┘
-const prompt = require('prompt-sync')({sigint: true})
 
 //Function Library
 
